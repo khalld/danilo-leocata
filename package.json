@@ -21,6 +21,7 @@
 		"vite": "^7.0.4"
 	},
 	"dependencies": {
+		"@fontsource-variable/roboto": "^5.2.7",
 		"@sveltejs/adapter-static": "^3.0.9"
 	}
 }

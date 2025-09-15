@@ -1,7 +1,13 @@
 <script>
-    import { base } from "$app/paths";
-    // import Controls from '../lib/player/Controls.svelte'
+    // import { base } from "$app/paths";
 </script>
+
+<style>
+    div {
+       font-family: 'Roboto Variable', sans-serif;
+       font-size: 12px;
+    }
+</style>
 
 <div class="main-wrapper">
     <div class="container px-3 px-lg-5">
