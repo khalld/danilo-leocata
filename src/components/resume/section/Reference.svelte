@@ -8,10 +8,10 @@
     <div class="resume-section-content">
         <ul class="list-unstyled resume-awards-list">
             <li class="mb-2 ps-4 position-relative">
-                <i class="resume-award-icon fas fa-trophy position-absolute" data-fa-transform="shrink-2"></i>
-                <div class="resume-award-name">CrowdSim++: Unifying Crowd Navigation and Obstacle Avoidance</div>
+                <i class="resume-award-icon fas fa-award position-absolute" data-fa-transform="shrink-2"></i>
+                <div class="resume-award-name">CrowdSim++: Unifying Crowd Navigation and Obstacle Avoidance <a href="https://iplab.dmi.unict.it/fpv/publications/Rosano2025CrowdSim.pdf"><i class="fa-solid fa-link"></i></a></div>
                 <div class="resume-award-desc">
-                    <a href="https://iplab.dmi.unict.it/fpv/publications/Rosano2025CrowdSim.pdf">Pdf</a>
+                    
                     <!--Award desc goes here, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.-->
                 </div>
             </li>

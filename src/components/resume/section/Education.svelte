@@ -4,14 +4,19 @@
     <div class="resume-section-content">
         <ul class="list-unstyled">
             <li class="mb-2">
-                <div class="resume-degree font-weight-bold">MSc in Computer Science</div>
-                <div class="resume-degree-org">University College London</div>
-                <div class="resume-degree-time">2013 - 2014</div>
+                <div class="resume-degree font-weight-bold">MSc in Computer Science/Data Science</div>
+                <div class="resume-degree-org">University of Catania, Italy</div>
+                <div class="resume-degree-time">2020 - 2023</div>
+            </li>
+            <li class="mb-2">
+                <div class="resume-degree font-weight-bold">Technical University of Sofia</div>
+                <div class="resume-degree-org">University of Sofia, Bulgaria</div>
+                <div class="resume-degree-time">2018 - 2019</div>
             </li>
             <li>
-                <div class="resume-degree font-weight-bold">BSc Maths and Physics</div>
-                <div class="resume-degree-org">Imperial College London</div>
-                <div class="resume-degree-time">2010 - 2013</div>
+                <div class="resume-degree font-weight-bold">BSc in Computer Science</div>
+                <div class="resume-degree-org">University of Catania, Italy</div>
+                <div class="resume-degree-time">2015 - 2019</div>
             </li>
         </ul>
     </div>

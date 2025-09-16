@@ -72,12 +72,10 @@
         <div class="resume-skill-item">
             <h4 class="resume-skills-cat font-weight-bold">Others</h4>
             <ul class="list-inline">
-                <li class="list-inline-item"><span class="badge badge-light">Git</span></li>
-                <li class="list-inline-item"><span class="badge badge-light">Code Review</span></li>
                 <li class="list-inline-item"><span class="badge badge-light">Kibana</span></li>
                 <li class="list-inline-item"><span class="badge badge-light">Dynatrace</span></li>
                 <li class="list-inline-item"><span class="badge badge-light">MongoDb</span></li>
-                <li class="list-inline-item"><span class="badge badge-light">Mysql</span></li>
+                <li class="list-inline-item"><span class="badge badge-light">MySql</span></li>
                 <li class="list-inline-item"><span class="badge badge-light">Git</span></li>
             </ul>
         </div><!--//resume-skill-item-->

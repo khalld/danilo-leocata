@@ -2,6 +2,7 @@
     <div class="row">
         <div class="col-block col-md-auto resume-picture-holder text-center text-md-start">
             <img class="picture" src="assets/images/profile.jpg" alt="">
+            
         </div><!--//col-->
         <div class="col">
             <div class="row p-4 justify-content-center justify-content-md-between">
@@ -20,7 +21,7 @@
                         <!--
                             <li class="mb-3"><a class="text-link" href="#"><span class="fa-container text-center me-2"><i class="fab fa-codepen fa-fw"></i></span>codepen.io/username/</a></li>
                         -->
-                        <li><a class="text-link" href="https://khalld.github.io/danilo-leocata/"><span class="fa-container text-center me-2"><i class="fas fa-globe"></i></span>yourwebsite.com</a></li>
+                        <li><a class="text-link" href="https://khalld.github.io/danilo-leocata/"><span class="fa-container text-center me-2"><i class="fas fa-globe"></i></span>khalld.github.io/danilo-leocata/</a></li>
                     </ul>
                 </div><!--//secondary-info-->
             </div><!--//row-->
