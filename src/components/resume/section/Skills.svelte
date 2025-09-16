@@ -5,34 +5,35 @@
             <h4 class="resume-skills-cat font-weight-bold">Frontend</h4>
             <ul class="list-unstyled mb-4">
                 <li class="mb-2">
-                    <div class="resume-skill-name">Angular</div>
+                    <div class="resume-skill-name">SvelteJs</div>
                     <div class="progress resume-progress">
-                        <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 98%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                        <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 60%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
                 </li>
                 <li class="mb-2">
-                    <div class="resume-skill-name">React</div>
+                    <div class="resume-skill-name">Flutter</div>
                     <div class="progress resume-progress">
-                        <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 94%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                        <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 50%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
                 </li>
                 <li class="mb-2">
-                    <div class="resume-skill-name">JavaScript</div>
+                    <div class="resume-skill-name">Javascript</div>
                     <div class="progress resume-progress">
-                        <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 96%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                        <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 75%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
                 </li>
-                
+                <!--
                 <li class="mb-2">
                     <div class="resume-skill-name">Node.js</div>
                     <div class="progress resume-progress">
-                        <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 92%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                        <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 75%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
                 </li>
+                -->
                 <li class="mb-2">
                     <div class="resume-skill-name">HTML/CSS/SASS/LESS</div>
                     <div class="progress resume-progress">
-                        <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 96%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                        <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 25%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
                 </li>
             </ul>
@@ -42,25 +43,25 @@
             <h4 class="resume-skills-cat font-weight-bold">Backend</h4>
             <ul class="list-unstyled">
                 <li class="mb-2">
-                    <div class="resume-skill-name">Python/Django</div>
+                    <div class="resume-skill-name">Java/Spring Boot</div>
                     <div class="progress resume-progress">
-                        <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 95%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                        <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 85%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
                 </li>
                 <li class="mb-2">
-                    <div class="resume-skill-name">Ruby/Rails</div>
+                    <div class="resume-skill-name">Docker</div>
                     <div class="progress resume-progress">
-                        <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 92%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                        <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 50%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
                 </li>
                 <li class="mb-2">
-                    <div class="resume-skill-name">PHP</div>
+                    <div class="resume-skill-name">Kubernetes</div>
                     <div class="progress resume-progress">
-                        <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 86%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                        <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 30%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
                 </li>
                 <li class="mb-2">
-                    <div class="resume-skill-name">WordPress/Shopify</div>
+                    <div class="resume-skill-name">Node.js</div>
                     <div class="progress resume-progress">
                         <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 82%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
@@ -71,15 +72,13 @@
         <div class="resume-skill-item">
             <h4 class="resume-skills-cat font-weight-bold">Others</h4>
             <ul class="list-inline">
-                <li class="list-inline-item"><span class="badge badge-light">DevOps</span></li>
-                <li class="list-inline-item"><span class="badge badge-light">Code Review</span></li>
                 <li class="list-inline-item"><span class="badge badge-light">Git</span></li>
-                <li class="list-inline-item"><span class="badge badge-light">Unit Testing</span></li>
-                <li class="list-inline-item"><span class="badge badge-light">Wireframing</span></li>
-                <li class="list-inline-item"><span class="badge badge-light">Sketch</span></li>
-                <li class="list-inline-item"><span class="badge badge-light">Balsamiq</span></li>
-                <li class="list-inline-item"><span class="badge badge-light">WordPress</span></li>
-                <li class="list-inline-item"><span class="badge badge-light">Shopify</span></li>
+                <li class="list-inline-item"><span class="badge badge-light">Code Review</span></li>
+                <li class="list-inline-item"><span class="badge badge-light">Kibana</span></li>
+                <li class="list-inline-item"><span class="badge badge-light">Dynatrace</span></li>
+                <li class="list-inline-item"><span class="badge badge-light">MongoDb</span></li>
+                <li class="list-inline-item"><span class="badge badge-light">Mysql</span></li>
+                <li class="list-inline-item"><span class="badge badge-light">Git</span></li>
             </ul>
         </div><!--//resume-skill-item-->
     </div><!--resume-section-content-->
