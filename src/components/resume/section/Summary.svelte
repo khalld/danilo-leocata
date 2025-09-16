@@ -1,6 +1,8 @@
 <section class="resume-section summary-section mb-5">
     <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Career Summary</h2>
     <div class="resume-section-content">
-        <p class="mb-0">Summarise your career here. <a class="text-reset text-link" href="https://themes.3rdwavemedia.com/resources/sketch-template/pillar-sketch-sketch-resume-template-for-developers/" target="_blank">You can make a PDF version of your resume using our free Sketch template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+	    <p class="mb-0">
+            I was born in Catania on March 27, 1996. Since i was a child I was passionate about pc and videogames. After completing the Liceo Scientifico I therefore decided to enroll in Computer Science. I am a fan of TV series, football and travelling. I define myself as a neat and precise person (not too much!). I like to work in a team, as I believe it is the best way to grow, plan and manage projects and activities and find the best solution for my task.
+        </p>
     </div>
 </section><!--//summary-section-->
