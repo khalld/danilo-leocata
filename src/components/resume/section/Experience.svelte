@@ -7,19 +7,42 @@
     <div class="resume-section-content">
         <div class="resume-timeline position-relative">
 
-        <ExperienceItem title="IT Consultant" titleDetail="" company="Technology Reply" years="mar 2024 - Presente · 1 anno 7 mesi" description="" titleList="" descriptionList=""/>
-        <ExperienceItem title="Back End Developer" titleDetail="" company="Mongibello Tech S.r.l." years="lug 2022 - mar 2024 · 1 anno 9 mesi" description="" titleList="" descriptionList=""/>
-        <ExperienceItem title="Full-stack Developer" titleDetail="" company="Synapses" years="set 2021 - lug 2022 · 11 mesi" description="" titleList="" descriptionList=""/>
-        <ExperienceItem title="Software Engineer" titleDetail="" company="Bizmate" years="dic 2019 - giu 2021 · 1 anno 7 mesi" description="" titleList="" descriptionList=""/>
-        <ExperienceItem title="FullStack Developer " titleDetail="(Training course)" company="Adecco" years="28 Oct. 2019 - 3 Dec. 2019" description="" titleList="" descriptionList=""/>
-        
-        
-        </div><!--//resume-timeline-->
-        
-        
-        
-        
-        
-        
+            <ExperienceItem
+                title="IT Consultant"
+                company="Reply Technology Financial Services · Milano"
+                years="Mar 2024 – Present"
+                description="Fintech consultant for major banking clients across backoffice, trading, and customer-facing platforms. Fully autonomous in planning and delivering projects end-to-end — from requirements analysis and architectural design to implementation and production release. Led legacy modernisation (Java 6 EE → Java 21) and monolith-to-microservices migration. Drove performance optimisation campaigns with load testing and Kibana-based monitoring. Managed and mentored small development teams. Responsible for banking infrastructure governance: network routing, credential management, and compliance-grade secrets handling. Designed custom AI agents trained on internal documentation to accelerate development workflows."
+                tech="Java Spring (Maven), Oracle DB, Kibana, RedHat"/>
+
+            <ExperienceItem
+                title="Backend Developer"
+                company="Mongibello Tech · Catania"
+                years="Jul 2022 – Mar 2024"
+                description="Owned all microservices for game management on national and international gaming platforms. Operated autonomously across multiple concurrent projects, coordinating with international teams and delivering within tight deadlines."
+                tech="Java Spring (Gradle), Groovy, MySQL"/>
+
+            <ExperienceItem
+                title="FullStack Developer"
+                company="Synapses · Catania"
+                years="Sep 2021 – Jul 2022"
+                description="Bug fixing and feature development on the proprietary product; built an internal estimation tool from scratch."
+                tech="Flutter, Java Spring (Maven)"/>
+
+            <ExperienceItem
+                title="FullStack Developer"
+                company="Bizmate · Catania"
+                years="Dec 2019 – Jun 2021"
+                description="Developed multiple products from scratch: restaurant reservation web-app, License Manager, and Account Manager. Started with front-end maintenance, then took full ownership of new builds."
+                tech="Svelte, NodeJS, Docker, MongoDB, Keycloak, Redis, Bootstrap"/>
+
+            <ExperienceItem
+                title="FullStack Developer"
+                titleDetail=" · Training Programme"
+                company="Adecco · Bologna"
+                years="Oct 2019 – Dec 2019"
+                description="Adecco partner training programme focused on enterprise Java development."
+                tech="Java, MySQL, JPA, JDBC, Spring"/>
+
+        </div>
     </div>
-</section><!--//experience-section-->
+</section>

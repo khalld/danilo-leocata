@@ -6,8 +6,8 @@
 
 <style>
     article {
-       font-family: 'Roboto Variable', sans-serif;
-       font-size: 12px;
+        font-family: 'Source Sans 3', sans-serif;
+        font-size: 13px;
     }
 </style>
 

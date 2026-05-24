@@ -1,23 +1,27 @@
-
 <section class="resume-section education-section mb-5">
     <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Education</h2>
     <div class="resume-section-content">
         <ul class="list-unstyled">
-            <li class="mb-2">
-                <div class="resume-degree font-weight-bold">MSc in Computer Science/Data Science</div>
+            <li class="mb-3">
+                <div class="resume-degree font-weight-bold">M.Sc. — Data Science</div>
                 <div class="resume-degree-org">University of Catania, Italy</div>
-                <div class="resume-degree-time">2020 - 2023</div>
+                <div class="resume-degree-time">Oct 2020 – Dec 2023</div>
+                <div class="resume-degree-time mt-1" style="color: #58677c; font-size: 0.8rem;">
+                    Graduated <strong>110/110</strong> &middot; Machine learning, data science &amp; backend engineering
+                </div>
             </li>
-            <li class="mb-2">
-                <div class="resume-degree font-weight-bold">Technical University of Sofia</div>
-                <div class="resume-degree-org">University of Sofia, Bulgaria</div>
-                <div class="resume-degree-time">2018 - 2019</div>
+            <li class="mb-3">
+                <div class="resume-degree font-weight-bold">Erasmus+</div>
+                <div class="resume-degree-org">Technical University of Sofia, Bulgaria</div>
+                <div class="resume-degree-time">Sep 2018 – Jun 2019</div>
+                <div class="resume-degree-time mt-1" style="color: #58677c; font-size: 0.8rem;">All exams passed with full marks in English</div>
             </li>
-            <li>
-                <div class="resume-degree font-weight-bold">BSc in Computer Science</div>
+            <li class="mb-3">
+                <div class="resume-degree font-weight-bold">B.Sc. — Computer Science</div>
                 <div class="resume-degree-org">University of Catania, Italy</div>
-                <div class="resume-degree-time">2015 - 2019</div>
+                <div class="resume-degree-time">Oct 2015 – Sep 2019</div>
+                <div class="resume-degree-time mt-1" style="color: #58677c; font-size: 0.8rem;">Graduated <strong>100/110</strong></div>
             </li>
         </ul>
     </div>
-</section><!--//education-section-->
+</section>

@@ -2,29 +2,123 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8" />
-		<!-- FIXME: TODO:-->
-		<!-- FontAwesome JS-->
-		<!-- <script defer src="assets/fontawesome/js/all.min.js"></script> -->
-		
-		<!-- Theme CSS -->  
-		<!-- <link id="theme-style" rel="stylesheet" href="assets/css/devresume.css"> -->
-
-		<!-- end todo, fixme-->
-
-		<link rel="icon" href="%sveltekit.assets%/favicon.png" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="description" content="Danilo Leocata — IT Consultant · Backend & Data Science Engineer" />
+		<title>Danilo Leocata</title>
+		<link rel="icon" href="%sveltekit.assets%/favicon.png" />
 		<!-- Bootstrap CSS -->
-    	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
-		<!-- Google Font -->
-		<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900" rel="stylesheet">
-		<!-- FontAwesome JS-->
+		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+		<!-- Google Fonts: Sora (display/headings) + Source Sans 3 (body) -->
+		<link href="https://fonts.googleapis.com/css2?family=Sora:wght@400;600;700;800&family=Source+Sans+3:wght@300;400;500;600&display=swap" rel="stylesheet">
+		<!-- FontAwesome -->
 		<script defer src="assets/fontawesome/js/all.min.js"></script>
-		<!-- Theme CSS -->  
+		<!-- Theme CSS -->
 		<link id="theme-style" rel="stylesheet" href="assets/css/pillar-1.css">
+		<style>
+			:root {
+				--cv-navy: #142D5F;
+				--cv-navy-mid: #1e3f80;
+				--cv-navy-light: #2B5199;
+				--cv-slate: #58677c;
+				--cv-muted: #8d9aad;
+			}
+			body {
+				font-family: 'Source Sans 3', sans-serif;
+				background-color: #e8ebf0;
+			}
+			h1, h2, h3, h4, h5, .resume-header .name {
+				font-family: 'Sora', sans-serif;
+			}
+			.resume-wrapper-inner {
+				border-radius: 6px;
+				overflow: hidden;
+				box-shadow: 0 4px 24px rgba(20,45,95,0.13);
+			}
+			.resume-header {
+				background: var(--cv-navy) !important;
+				height: auto !important;
+				min-height: 200px;
+				padding: 1.5rem 0;
+			}
+			.resume-header .picture {
+				width: 180px !important;
+				height: 180px;
+				object-fit: cover;
+				border-radius: 50%;
+				border: 4px solid rgba(255,255,255,0.25);
+			}
+			.resume-header .name {
+				font-size: 2rem !important;
+				letter-spacing: 0.12rem !important;
+				font-weight: 800 !important;
+			}
+			.resume-header .title {
+				font-size: 1.05rem !important;
+				font-family: 'Source Sans 3', sans-serif;
+				opacity: 0.82;
+				letter-spacing: 0.03em;
+			}
+			.resume-header a {
+				color: rgba(255,255,255,0.75) !important;
+				text-decoration: none;
+				font-size: 0.85rem;
+			}
+			.resume-header a:hover { color: #fff !important; }
+			.resume-social .fa-container {
+				background: rgba(255,255,255,0.18) !important;
+				color: #fff !important;
+			}
+			.resume-section-title {
+				color: var(--cv-navy) !important;
+				font-size: 0.8rem !important;
+				letter-spacing: 0.12em;
+				font-weight: 700 !important;
+				font-family: 'Sora', sans-serif;
+			}
+			.resume-section-title::after {
+				background: var(--cv-navy) !important;
+				opacity: 0.25;
+			}
+			.resume-position-title {
+				color: var(--cv-navy) !important;
+				font-family: 'Sora', sans-serif;
+				font-size: 1rem !important;
+			}
+			.resume-timeline-item:before {
+				border-color: var(--cv-navy) !important;
+			}
+			.resume-timeline:before {
+				background: #c8d0db !important;
+			}
+			.theme-progress-bar-dark {
+				background-color: var(--cv-navy) !important;
+			}
+			.badge.bg-secondary {
+				background-color: var(--cv-navy) !important;
+				font-weight: 400;
+				font-size: 0.75rem;
+			}
+			.badge-light {
+				background: #edf1f7 !important;
+				color: var(--cv-navy) !important;
+				border: 1px solid #cdd6e3;
+			}
+			.resume-degree { color: var(--cv-navy) !important; }
+			.resume-skills-cat { color: var(--cv-navy) !important; }
+			.resume-skill-name { color: #3d4f63 !important; }
+			.resume-award-name { color: var(--cv-navy) !important; }
+			.resume-lang-name { color: var(--cv-navy) !important; }
+			.resume-company-name { color: var(--cv-slate) !important; }
+			.resume-section-content { color: #444f5a; }
+			.resume-section-content p { line-height: 1.65; }
+			.resume-body { padding: 2rem !important; }
+			.footer { background: #f0f3f7; border-top: 1px solid #dde3ec; }
+			.footer small { color: #8d9aad; font-size: 0.78rem; }
+		</style>
 		%sveltekit.head%
 	</head>
 	<body data-sveltekit-preload-data="hover">
-    	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
+		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
 		<div style="display: contents">%sveltekit.body%</div>
 	</body>
 </html>
