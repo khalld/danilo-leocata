@@ -14,7 +14,7 @@
         </div>
 
         <div class="resume-skill-item">
-            <h4 class="resume-skills-cat font-weight-bold">Currently flashing</h4>
+            <h4 class="resume-skills-cat font-weight-bold">Currently Flashing</h4>
             <ul class="list-inline mb-4">
                 <li class="list-inline-item mb-1"><span class="badge badge-light">Docker</span></li>
                 <li class="list-inline-item mb-1"><span class="badge badge-light">Kubernetes</span></li>

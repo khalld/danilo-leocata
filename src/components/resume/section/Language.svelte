@@ -4,7 +4,7 @@
         <ul class="list-unstyled resume-lang-list">
             <li class="mb-2"><span class="resume-lang-name font-weight-bold">Italian</span> <small class="text-muted font-weight-normal">(Native)</small></li>
             <li class="mb-2 align-middle"><span class="resume-lang-name font-weight-bold">English</span> <small class="text-muted font-weight-normal">(Intermediate)</small></li>
-            <li><span class="resume-lang-name font-weight-bold">Spanish</span> <small class="text-muted font-weight-normal">(Intermediate)</small></li>
+            <li><span class="resume-lang-name font-weight-bold">Spanish</span> <small class="text-muted font-weight-normal">(Amateur)</small></li>
         </ul>
     </div>
 </section><!--//language-section-->
