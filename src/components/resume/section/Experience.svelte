@@ -11,7 +11,7 @@
                 title="IT Consultant"
                 company="Reply Technology Financial Services · Milano"
                 years="Mar 2024 – Present"
-                description="Fintech consultant for major banking clients across backoffice, trading, and customer-facing platforms. Fully autonomous in planning and delivering projects end-to-end — from requirements analysis and architectural design to implementation and production release. Led legacy modernisation (Java 6 EE → Java 21) and monolith-to-microservices migration. Drove performance optimisation campaigns with load testing and Kibana-based monitoring. Managed and mentored small development teams. Responsible for banking infrastructure governance: network routing, credential management, and compliance-grade secrets handling. Designed custom AI agents trained on internal documentation to accelerate development workflows."
+                description="Fintech consultant for major banking clients across backoffice, trading, and customer-facing platforms. Fully autonomous in planning and delivering projects end-to-end — from requirements analysis and architectural design to implementation and production release. Led legacy modernization and microservices migration initiatives. Drove performance optimization through load testing and monitoring. Comfortable working independently as well as coordinating with colleagues and managing team activities, including the full delivery lifecycle: release management, testing pipelines, and enablement ticketing. Currently exploring and applying AI agents to streamline and accelerate daily development workflows."
                 tech="Java Spring (Maven), Oracle DB, Kibana, RedHat"/>
 
             <ExperienceItem
