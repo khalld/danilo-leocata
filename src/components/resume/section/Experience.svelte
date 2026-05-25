@@ -26,7 +26,7 @@
                 company="Synapses · Catania"
                 years="Sep 2021 – Jul 2022"
                 description="Bug fixing and feature development on the proprietary product; built an internal estimation tool from scratch."
-                tech="Flutter, Java Spring (Maven), Docker, Kubernetes"/>
+                tech="Flutter, Java Spring Boot, Maven, Docker, Kubernetes"/>
 
             <ExperienceItem
                 title="FullStack Developer"
@@ -41,7 +41,7 @@
                 company="Adecco · Bologna"
                 years="Oct 2019 – Dec 2019"
                 description="Adecco partner training programme focused on enterprise Java development."
-                tech="Java, MySQL, JPA, JDBC, Spring"/>
+                tech="Java, MySQL, Spring Boot, JPA, JDBC, JSP"/>
 
         </div>
     </div>
