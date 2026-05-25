@@ -16,15 +16,15 @@
 		<link id="theme-style" rel="stylesheet" href="assets/css/pillar-1.css">
 		<style>
 			:root {
-				--cv-navy: #142D5F;
-				--cv-navy-mid: #1e3f80;
-				--cv-navy-light: #2B5199;
-				--cv-slate: #58677c;
-				--cv-muted: #8d9aad;
+				--cv-primary: #272a31;
+				--cv-primary-mid: #3d4148;
+				--cv-primary-light: #565b65;
+				--cv-slate: #6b7280;
+				--cv-muted: #9ca3af;
 			}
 			body {
 				font-family: 'Source Sans 3', sans-serif;
-				background-color: #e8ebf0;
+				background-color: #e8e8e8;
 			}
 			h1, h2, h3, h4, h5, .resume-header .name {
 				font-family: 'Sora', sans-serif;
@@ -32,10 +32,10 @@
 			.resume-wrapper-inner {
 				border-radius: 6px;
 				overflow: hidden;
-				box-shadow: 0 4px 24px rgba(20,45,95,0.13);
+				box-shadow: 0 4px 24px rgba(0,0,0,0.18);
 			}
 			.resume-header {
-				background: var(--cv-navy) !important;
+				background: var(--cv-primary) !important;
 				height: auto !important;
 				min-height: 200px;
 				padding: 1.5rem 0;
@@ -69,51 +69,51 @@
 				color: #fff !important;
 			}
 			.resume-section-title {
-				color: var(--cv-navy) !important;
+				color: var(--cv-primary) !important;
 				font-size: 0.8rem !important;
 				letter-spacing: 0.12em;
 				font-weight: 700 !important;
 				font-family: 'Sora', sans-serif;
 			}
 			.resume-section-title::after {
-				background: var(--cv-navy) !important;
+				background: var(--cv-primary) !important;
 				opacity: 0.25;
 			}
 			.resume-position-title {
-				color: var(--cv-navy) !important;
+				color: var(--cv-primary) !important;
 				font-family: 'Sora', sans-serif;
 				font-size: 1rem !important;
 			}
 			.resume-timeline-item:before {
-				border-color: var(--cv-navy) !important;
+				border-color: var(--cv-primary-mid) !important;
 			}
 			.resume-timeline:before {
-				background: #c8d0db !important;
+				background: #c0c0c0 !important;
 			}
 			.theme-progress-bar-dark {
-				background-color: var(--cv-navy) !important;
+				background-color: var(--cv-primary) !important;
 			}
 			.badge.bg-secondary {
-				background-color: var(--cv-navy) !important;
+				background-color: var(--cv-primary) !important;
 				font-weight: 400;
 				font-size: 0.75rem;
 			}
 			.badge-light {
-				background: #edf1f7 !important;
-				color: var(--cv-navy) !important;
-				border: 1px solid #cdd6e3;
+				background: #f0f0f0 !important;
+				color: var(--cv-primary) !important;
+				border: 1px solid #d0d0d0;
 			}
-			.resume-degree { color: var(--cv-navy) !important; }
-			.resume-skills-cat { color: var(--cv-navy) !important; }
-			.resume-skill-name { color: #3d4f63 !important; }
-			.resume-award-name { color: var(--cv-navy) !important; }
-			.resume-lang-name { color: var(--cv-navy) !important; }
+			.resume-degree { color: var(--cv-primary) !important; }
+			.resume-skills-cat { color: var(--cv-primary) !important; }
+			.resume-skill-name { color: var(--cv-primary-mid) !important; }
+			.resume-award-name { color: var(--cv-primary) !important; }
+			.resume-lang-name { color: var(--cv-primary) !important; }
 			.resume-company-name { color: var(--cv-slate) !important; }
-			.resume-section-content { color: #444f5a; }
+			.resume-section-content { color: #444444; }
 			.resume-section-content p { line-height: 1.65; }
 			.resume-body { padding: 2rem !important; }
-			.footer { background: #f0f3f7; border-top: 1px solid #dde3ec; }
-			.footer small { color: #8d9aad; font-size: 0.78rem; }
+			.footer { background: #f0f0f0; border-top: 1px solid #d8d8d8; }
+			.footer small { color: #9ca3af; font-size: 0.78rem; }
 		</style>
 		%sveltekit.head%
 	</head>
