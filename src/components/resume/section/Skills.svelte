@@ -10,7 +10,6 @@
                 <li class="list-inline-item mb-1"><span class="badge badge-light">Spring Boot</span></li>
                 <li class="list-inline-item mb-1"><span class="badge badge-light">MySQL</span></li>
                 <li class="list-inline-item mb-1"><span class="badge badge-light">MongoDB</span></li>
-                <li class="list-inline-item mb-1"><span class="badge badge-light">Docker</span></li>
             </ul>
         </div>
 
@@ -20,7 +19,6 @@
                 <li class="list-inline-item mb-1"><span class="badge badge-light">Docker</span></li>
                 <li class="list-inline-item mb-1"><span class="badge badge-light">Kubernetes</span></li>
                 <li class="list-inline-item mb-1"><span class="badge badge-light">CI/CD Pipeline (Github)</span></li>
-
             </ul>
         </div>
 

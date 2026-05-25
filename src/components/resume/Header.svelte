@@ -1,6 +1,6 @@
 <header class="resume-header pt-4 pt-md-0">
     <div class="row align-items-center">
-        <div class="col-block col-md-auto resume-picture-holder text-center text-md-start">
+        <div class="col-block col-md-auto resume-picture-holder text-center text-md-start ps-0">
             <img class="picture" src="assets/images/profile.jpg" alt="Danilo Leocata">
         </div>
         <div class="col">
