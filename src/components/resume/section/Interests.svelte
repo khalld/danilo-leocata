@@ -4,7 +4,7 @@
         <ul class="list-unstyled">
             <li class="mb-1">
                 <i class="fas fa-certificate me-2" style="color: #8d9aad; font-size: 0.8em;"></i>
-                Java OCP 21 Certification
+                GoFluent English course
             </li>
         </ul>
     </div>

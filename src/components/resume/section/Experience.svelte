@@ -12,21 +12,21 @@
                 company="Reply Technology Financial Services · Milano"
                 years="Mar 2024 – Present"
                 description="Fintech consultant for major banking clients across backoffice, trading, and customer-facing platforms. Fully autonomous in planning and delivering projects end-to-end — from requirements analysis and architectural design to implementation and production release. Led legacy modernization and microservices migration initiatives. Drove performance optimization through load testing and monitoring. Comfortable working independently as well as coordinating with colleagues and managing team activities, including the full delivery lifecycle: release management, testing pipelines, and enablement ticketing. Currently exploring and applying AI agents to streamline and accelerate daily development workflows."
-                tech="Java Spring (Maven), Oracle DB, Kibana, RedHat"/>
+                tech="Java, Spring Boot, Maven, Oracle DB, Kibana, RedHat, JPA, JDBC"/>
 
             <ExperienceItem
                 title="Backend Developer"
                 company="Mongibello Tech · Catania"
                 years="Jul 2022 – Mar 2024"
                 description="Owned all microservices for game management on national and international gaming platforms. Operated autonomously across multiple concurrent projects, coordinating with international teams and delivering within tight deadlines."
-                tech="Java Spring (Gradle), Groovy, MySQL"/>
+                tech="Spring Boot, Gradle, Java, Groovy, MySQL, Bash"/>
 
             <ExperienceItem
                 title="FullStack Developer"
                 company="Synapses · Catania"
                 years="Sep 2021 – Jul 2022"
                 description="Bug fixing and feature development on the proprietary product; built an internal estimation tool from scratch."
-                tech="Flutter, Java Spring (Maven)"/>
+                tech="Flutter, Java Spring (Maven), Docker, Kubernetes"/>
 
             <ExperienceItem
                 title="FullStack Developer"
