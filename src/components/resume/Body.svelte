@@ -6,6 +6,7 @@
     import Reference from "./section/Reference.svelte";
     import Language from "./section/Language.svelte";
     import Interests from "./section/Interests.svelte";
+    import Certifications from "./section/Certifications.svelte";
 </script>
 
 <div class="resume-body p-5">
@@ -71,6 +72,7 @@
         <div class="col-lg-3">
             <Skills/>
             <Education/>
+            <Certifications/>
             <Reference/>
             <Language/>
             <Interests/>
