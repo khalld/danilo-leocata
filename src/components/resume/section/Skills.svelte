@@ -12,18 +12,6 @@
                     </div>
                 </li>
                 <li class="mb-2">
-                    <div class="resume-skill-name">Python</div>
-                    <div class="progress resume-progress">
-                        <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 70%" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
-                    </div>
-                </li>
-                <li class="mb-2">
-                    <div class="resume-skill-name">Node.js</div>
-                    <div class="progress resume-progress">
-                        <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 65%" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100"></div>
-                    </div>
-                </li>
-                <li class="mb-2">
                     <div class="resume-skill-name">Groovy</div>
                     <div class="progress resume-progress">
                         <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 55%" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
@@ -33,26 +21,16 @@
         </div>
 
         <div class="resume-skill-item">
-            <h4 class="resume-skills-cat font-weight-bold">Frontend</h4>
-            <ul class="list-unstyled mb-4">
-                <li class="mb-2">
-                    <div class="resume-skill-name">JavaScript / TypeScript</div>
-                    <div class="progress resume-progress">
-                        <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
-                    </div>
-                </li>
-                <li class="mb-2">
-                    <div class="resume-skill-name">Svelte</div>
-                    <div class="progress resume-progress">
-                        <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 60%" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
-                    </div>
-                </li>
-                <li class="mb-2">
-                    <div class="resume-skill-name">Flutter</div>
-                    <div class="progress resume-progress">
-                        <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
-                    </div>
-                </li>
+            <h4 class="resume-skills-cat font-weight-bold">Frontend &amp; Other <span class="badge badge-light text-muted" style="font-size: 0.7rem; vertical-align: middle;">Amateur</span></h4>
+            <ul class="list-inline mb-4">
+                <li class="list-inline-item mb-1"><span class="badge badge-light">JavaScript / TypeScript</span></li>
+                <li class="list-inline-item mb-1"><span class="badge badge-light">Svelte</span></li>
+                <li class="list-inline-item mb-1"><span class="badge badge-light">Flutter</span></li>
+                <li class="list-inline-item mb-1"><span class="badge badge-light">Python</span></li>
+                <li class="list-inline-item mb-1"><span class="badge badge-light">Node.js</span></li>
+                <li class="list-inline-item mb-1"><span class="badge badge-light">Docker</span></li>
+                <li class="list-inline-item mb-1"><span class="badge badge-light">Kubernetes</span></li>
+                <li class="list-inline-item mb-1"><span class="badge badge-light">MongoDB</span></li>
             </ul>
         </div>
 
@@ -60,11 +38,8 @@
             <h4 class="resume-skills-cat font-weight-bold">Tools &amp; Platforms</h4>
             <ul class="list-inline">
                 <li class="list-inline-item mb-1"><span class="badge badge-light">Git</span></li>
-                <li class="list-inline-item mb-1"><span class="badge badge-light">Docker</span></li>
-                <li class="list-inline-item mb-1"><span class="badge badge-light">Kubernetes</span></li>
                 <li class="list-inline-item mb-1"><span class="badge badge-light">Oracle DB</span></li>
                 <li class="list-inline-item mb-1"><span class="badge badge-light">MySQL</span></li>
-                <li class="list-inline-item mb-1"><span class="badge badge-light">MongoDB</span></li>
                 <li class="list-inline-item mb-1"><span class="badge badge-light">Kibana</span></li>
                 <li class="list-inline-item mb-1"><span class="badge badge-light">RedHat</span></li>
                 <li class="list-inline-item mb-1"><span class="badge badge-light">Keycloak</span></li>
