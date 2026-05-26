@@ -38,6 +38,11 @@
                                 <span class="fa-container text-center me-2"><i class="fas fa-globe fa-fw"></i></span>khalld.github.io/danilo-leocata
                             </a>
                         </li>
+                        <li class="mt-3">
+                            <a class="text-link" href="cv.pdf" download="Danilo_Leocata_CV.pdf">
+                                <span class="fa-container text-center me-2"><i class="fas fa-download fa-fw"></i></span>Download CV
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </div>
