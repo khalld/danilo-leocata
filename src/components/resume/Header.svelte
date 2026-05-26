@@ -25,19 +25,19 @@
                     <ul class="resume-social list-unstyled">
                         <li class="mb-3">
                             <a class="text-link" href="https://www.linkedin.com/in/danilo-leocata-3a76a915b/" target="_blank" rel="noopener">
-                                <span class="fa-container text-center me-2"><i class="fab fa-linkedin-in fa-fw"></i></span>linkedin.com/in/danilo-leocata
+                                <span class="fa-container text-center me-2"><i class="fab fa-linkedin-in fa-fw"></i></span>Linkedin
                             </a>
                         </li>
                         <li class="mb-3">
                             <a class="text-link" href="https://github.com/khalld" target="_blank" rel="noopener">
-                                <span class="fa-container text-center me-2"><i class="fab fa-github-alt fa-fw"></i></span>github.com/khalld
+                                <span class="fa-container text-center me-2"><i class="fab fa-github-alt fa-fw"></i></span>GitHub
                             </a>
                         </li>
-                        <li>
+                        <!-- <li>
                             <a class="text-link" href="https://khalld.github.io/danilo-leocata/" target="_blank" rel="noopener">
                                 <span class="fa-container text-center me-2"><i class="fas fa-globe fa-fw"></i></span>khalld.github.io/danilo-leocata
                             </a>
-                        </li>
+                        </li> -->
                         <li class="mt-3">
                             <a class="text-link" href="cv.pdf" download="Danilo_Leocata_CV.pdf">
                                 <span class="fa-container text-center me-2"><i class="fas fa-download fa-fw"></i></span>Download CV
