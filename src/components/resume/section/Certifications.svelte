@@ -7,7 +7,7 @@
                     <a href="https://credentials.corporatefinanceinstitute.com/27d1b76f-bfb3-45c3-a1c9-029f58f72232#acc.XJSi16dR"
                        target="_blank" rel="noopener"
                        style="color: var(--cv-primary); text-decoration: none;">
-                        CFI Certification
+                        Assessing Management
                         <i class="fas fa-external-link-alt" style="font-size: 0.7rem; margin-left: 4px; opacity: 0.6;"></i>
                     </a>
                 </div>
