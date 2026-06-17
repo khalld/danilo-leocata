@@ -31,19 +31,5 @@
             </li>
         </ul>
 
-        <h3 class="resume-section-title font-weight-bold pb-2 mb-2" style="font-size: 1rem; text-transform: uppercase; letter-spacing: 0.05em;">Currently Pursuing</h3>
-        <ul class="list-unstyled">
-            <li class="mb-2">
-                <div class="resume-degree font-weight-bold">
-                    <a href="https://www.oreilly.com/library/view/learning-langchain/9781098167271/"
-                       target="_blank" rel="noopener"
-                       style="color: var(--cv-primary); text-decoration: none;">
-                        Learning LangChain
-                        <i class="fas fa-external-link-alt" style="font-size: 0.7rem; margin-left: 4px; opacity: 0.6;"></i>
-                    </a>
-                </div>
-                <div class="resume-degree-org text-muted">O'Reilly · Book</div>
-            </li>
-        </ul>
     </div>
 </section>
