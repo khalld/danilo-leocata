@@ -1,3 +1,7 @@
+<script>
+    import { base } from '$app/paths';
+</script>
+
 <section class="resume-section certifications-section mb-5">
     <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Certifications</h2>
     <div class="resume-section-content">
@@ -15,7 +19,7 @@
             </li>
             <li class="mb-3">
                 <div class="resume-degree font-weight-bold">
-                    <a href="/Danilo_Leocata_Proficiency_Test_Result.pdf"
+                    <a href="{base}/Danilo_Leocata_Proficiency_Test_Result.pdf"
                        target="_blank" rel="noopener"
                        style="color: var(--cv-primary); text-decoration: none;">
                         English Proficiency Test — CEFR C2
