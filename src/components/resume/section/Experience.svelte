@@ -11,14 +11,14 @@
                 title="IT Consultant"
                 company="Reply Technology Financial Services · Milano"
                 years="Mar 2024 – Present"
-                description="Fintech consultant for major banking clients across backoffice, trading, and customer-facing platforms. Fully autonomous in planning and delivering projects end-to-end — from requirements analysis and architectural design to implementation and production release. Led legacy modernization and microservices migration initiatives. Drove performance optimization through load testing and monitoring. Comfortable working independently as well as coordinating with colleagues and managing team activities, including the full delivery lifecycle: release management, testing pipelines, and enablement ticketing. Currently exploring and applying AI agents to streamline and accelerate daily development workflows."
+                description="Fintech Consultant for major banking clients, delivering end-to-end solutions across back-office, and customer-facing platforms from initial requirements and architecture to final production release. Collaborate on the modernization of the bank's core sales platform — which processes 250,000--300,000 daily transactions — helping boost system performance by 50% during a full-scale migration to AWS. Optimize system reliability through rigorous load testing and monitoring, while managing release pipelines, deployment workflows, and enablement ticketing. By integrating AI agents into daily development workflows, cut delivery time by 30% and accelerate bug detection by 40%, strategic time savings reinvested into anticipating future development needs, mastering new frameworks, and pursuing technical certifications."
                 tech="Java, Spring Boot, Maven, Oracle DB, Kibana, RedHat, JPA, JDBC"/>
 
             <ExperienceItem
                 title="Backend Developer"
                 company="Mongibello Tech · Catania"
                 years="Jul 2022 – Mar 2024"
-                description="Owned all microservices for game management on national and international gaming platforms. Operated autonomously across multiple concurrent projects, coordinating with international teams and delivering within tight deadlines."
+                description="Owned and maintained microservices for game management across national and international gaming platforms operating in 3 markets, processing over 10,000 daily transactions. Delivering end-to-end solutions across multiple concurrent projects, coordinating with cross-country teams to consistently hit tight release deadlines while cutting the defect rate by 50%."
                 tech="Spring Boot, Gradle, Java, Groovy, MySQL, Bash"/>
 
             <ExperienceItem

@@ -5,7 +5,7 @@
             <li class="mb-2 ps-4 position-relative">
                 <i class="resume-award-icon fas fa-file-alt position-absolute" data-fa-transform="shrink-2"></i>
                 <div class="resume-award-name">
-                    <a href="https://iplab.dmi.unict.it/fpv/publications/Rosano2025CrowdSim.pdf" target="_blank" rel="noopener" style="color: inherit; text-decoration: none;">
+                    <a href="https://khalld.github.io/danilo-leocata/131923.pdf" target="_blank" rel="noopener" style="color: inherit; text-decoration: none;">
                         CrowdSim++: Unifying Crowd Navigation and Obstacle Avoidance
                         <i class="fas fa-external-link-alt ms-1" style="font-size:0.7em; opacity:0.6;"></i>
                     </a>

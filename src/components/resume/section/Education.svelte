@@ -7,7 +7,7 @@
                 <div class="resume-degree-org">University of Catania, Italy</div>
                 <div class="resume-degree-time">Oct 2020 – Dec 2023</div>
                 <div class="resume-degree-time mt-1" style="color: #58677c; font-size: 0.8rem;">
-                    Graduated <strong>110/110</strong> &middot; Machine learning, data science &amp; backend engineering
+                    Graduated <strong>110/110</strong> &middot; Specialized in machine learning and data science, complemented by coursework in DevOps methodologies and software engineering.
                 </div>
             </li>
             <li class="mb-3">
